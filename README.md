@@ -6,11 +6,14 @@ This project is still in development and not yet ready for production use. The r
 ## 📌 Overview
 
 <img src="./assets/1.png" alt="Sapnous-Agent" width="full"/>  
+
+
 ## 🛠️ GitHub Repository  
 
 [![GitHub Stars](https://img.shields.io/github/stars/SapnousAI/Sapnous-Agent?style=social)](https://github.com/SapnousAI/Sapnous-Agent)  
 [![Forks](https://img.shields.io/github/forks/SapnousAI/Sapnous-Agent?style=social)](https://github.com/SapnousAI/Sapnous-Agent/fork)  
 [![Issues](https://img.shields.io/github/issues/SapnousAI/Sapnous-Agent)](https://github.com/SapnousAI/Sapnous-Agent/issues)  
+
 
 This is a modern React frontend for the **Browser-Use agent**. It provides a chat interface for interacting with the AI agent, with a live browser preview and other options. 
 
